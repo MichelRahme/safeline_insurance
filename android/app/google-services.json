@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595224768713",
+    "firebase_url": "https://safeline-d628e.firebaseio.com",
+    "project_id": "safeline-d628e",
+    "storage_bucket": "safeline-d628e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595224768713:android:76d20eece5b893260a9d18",
+        "android_client_info": {
+          "package_name": "com.michelrahme.safeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595224768713-70ft77rn0k8eehl0mivc9oalk6mutqlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmUCq6yv4lcanqmBs5VC5Vs2yteTPmt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595224768713-70ft77rn0k8eehl0mivc9oalk6mutqlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
