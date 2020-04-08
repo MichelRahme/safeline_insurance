@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>595224768713-jc648ou7btbkqgmrsto4moal9o40j3d5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.595224768713-jc648ou7btbkqgmrsto4moal9o40j3d5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnAj9GSyow3DuO6j3A0BM461S7awjsHjI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595224768713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.michelrahme.safeline</string>
+	<key>PROJECT_ID</key>
+	<string>safeline-d628e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safeline-d628e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595224768713:ios:a7ad66e9737ae6e40a9d18</string>
+	<key>DATABASE_URL</key>
+	<string>https://safeline-d628e.firebaseio.com</string>
+</dict>
+</plist>

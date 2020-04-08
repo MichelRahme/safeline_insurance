@@ -42,10 +42,10 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>NSPhotoLibraryUsageDescription</key>
-    <string>Please gimme!</string>
+    <string>Thank You</string>
     <key>NSCameraUsageDescription</key>
-    <string>Please gimme!</string>
+    <string>Thank You</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string>Please gimme!</string>
+    <string>Thank You</string>
 </dict>
 </plist>
