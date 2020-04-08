@@ -63,8 +63,13 @@ class _HomePageState extends State<HomePage> {
             print(e.toString());
           }
         },
-        child: Icon(Icons.camera),
+        child: Icon(
+          Icons.add,
+          color: constants.primary,
+          size: 30.0,
+        ),
         backgroundColor: constants.secondary,
+        tooltip: "Add Claim",
       ),
     );
   }
