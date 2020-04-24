@@ -64,42 +64,39 @@ class _HomePageState extends State<HomePage> {
                               borderRadius: BorderRadius.circular(25.0),
                             ),
                             child: Container(
-                              margin: EdgeInsets.only(left: 25.0),
+//                              margin: EdgeInsets.only(left: 25.0),
                               child: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
+                                children: <Widget>[
                                   Row(
+                                    mainAxisAlignment: MainAxisAlignment.center,
                                     children: <Widget>[
                                       Column(
                                         children: <Widget>[
-                                          Container(
-                                            child: Text(
-                                              "Submit a Claim",
-                                              style: GoogleFonts.barlow(
-                                                  fontWeight: FontWeight.w600,
-                                                  fontSize: 35.0,
-                                                  shadows: [
-                                                    Shadow(
-                                                      blurRadius: 1.0,
-                                                      color: constants.primary
-                                                          .withOpacity(0.3),
-                                                      offset: Offset(1.0, 1.0),
-                                                    ),
-                                                  ],
-                                                  color: constants.primary),
-                                            ),
+                                          Text(
+                                            "Submit a Claim",
+                                            style: GoogleFonts.barlow(
+                                                fontWeight: FontWeight.w600,
+                                                fontSize: 33.0,
+                                                shadows: [
+                                                  Shadow(
+                                                    blurRadius: 1.0,
+                                                    color: constants.primary
+                                                        .withOpacity(0.3),
+                                                    offset: Offset(1.0, 1.0),
+                                                  ),
+                                                ],
+                                                color: constants.primary),
                                           ),
                                         ],
                                       ),
                                       Column(
                                         children: <Widget>[
-                                          Container(
-                                            child: Icon(
-                                              Icons.arrow_forward_ios,
-                                              size: 140.0,
-                                              color: constants.primary
-                                                  .withOpacity(0.25),
-                                            ),
+                                          Icon(
+                                            Icons.arrow_forward_ios,
+                                            size: 135.0,
+                                            color: constants.primary
+                                                .withOpacity(0.25),
                                           ),
                                         ],
                                       ),
