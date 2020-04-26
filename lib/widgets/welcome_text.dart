@@ -14,8 +14,8 @@ class _WelcomeTextState extends State<WelcomeText> {
     return Padding(
       padding: const EdgeInsets.only(top: 20.0, left: 20.0),
       child: Container(
-        width: 180,
-        height: 100,
+        width: 380,
+        height: 110,
         child: RotateAnimatedTextKit(
           totalRepeatCount: 999,
           duration: Duration(seconds: 7),
@@ -23,13 +23,13 @@ class _WelcomeTextState extends State<WelcomeText> {
             print("Tap Event");
           },
           text: [
-            '''Welcome, 
-Michel''',
+            '''How can we help you
+Today?''',
             '''Safeline 
 Insurance''',
           ],
           textStyle: GoogleFonts.barlow(
-              fontWeight: FontWeight.w600, fontSize: 40.0, color: onPrimary),
+              fontWeight: FontWeight.w600, fontSize: 35.0, color: onPrimary),
         ),
       ),
     );

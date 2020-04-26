@@ -71,11 +71,25 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.3"
+  exifdart:
+    dependency: "direct main"
+    description:
+      name: exifdart
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0+3"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_native_image:
+    dependency: "direct main"
+    description:
+      name: flutter_native_image
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.5+2"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
