@@ -1,3 +1,6 @@
+## Initial working prototype. This is a very rough draft, will fix and clean later. 
+
+
 # Safeline Insurance
 
 Safeline Insurance app makes use of Flutter's and Firebase's Machine Learning kit to automatically scan insurance claim receipts. 
